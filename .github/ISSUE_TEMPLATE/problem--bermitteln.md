@@ -23,6 +23,16 @@ Problem-Art:
 
 Kurzer Beschrieb, evtl. auch Screenshots, wie die korrekte Funktionalität sein soll.
 
+**User**
+
+Das Issue wurde festgestellt als ich als folgender User eingeloggt war:
+
+* [ ] admin1 
+* [ ] zentrale1
+* [ ] rfi1
+* [ ] rfi5
+* [ ] gast1
+
 **Weitere Informationen**
 
 * Mein Name:

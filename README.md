@@ -1,6 +1,6 @@
 # ProjAdmin_issues
 
-## Fehlers oder Verbesserungsvorschlag übermitteln
+## Fehler oder Verbesserungsvorschlag übermitteln
 
 Übermittlung eines Fehlers oder Verbesserungsvorschlags zu AWN ProjAdmin (Issues): 
 

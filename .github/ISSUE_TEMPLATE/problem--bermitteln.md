@@ -37,7 +37,7 @@ Das Issue wurde festgestellt als ich als folgender User eingeloggt war:
 
 * Mein Name:
 
-** Tipps
+**Tipps**
 
 Tipps für Übermittlung Problem (Issue):
 

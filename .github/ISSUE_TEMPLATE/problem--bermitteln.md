@@ -25,13 +25,12 @@ Kurzer Beschrieb, evtl. auch Screenshots, wie die korrekte Funktionalität sein 
 
 **User**
 
-Das Issue wurde festgestellt als ich als folgender User eingeloggt war:
+Das Issue wurde festgestellt als ich als folgender User eingeloggt war (Funktion):
 
-* [ ] admin1 
-* [ ] zentrale1
-* [ ] rfi1
-* [ ] rfi5
-* [ ] gast1
+* [ ] Admin
+* [ ] Zentrale
+* [ ] Region
+* [ ] Gast
 
 **Weitere Informationen**
 

@@ -25,8 +25,9 @@ Kurzer Beschrieb, evtl. auch Screenshots, wie die korrekte Funktionalität sein 
 
 **User**
 
-Das Issue wurde festgestellt als ich als folgender User eingeloggt war (Funktion):
+Das Issue wurde festgestellt als ich als folgender User angemeldet war (Funktion):
 
+* [ ] nicht relevant
 * [ ] Admin
 * [ ] Zentrale
 * [ ] Region
